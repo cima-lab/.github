@@ -21,25 +21,6 @@ Develop, validate, and openly release AI methods for imaging, biology, and healt
 | 3 · Computational Biology & Biotech | ML on omics, protein/molecular data, bio-signal analysis, lab automation | Open call for an area lead |
 | 4 · Trustworthy & Deployable Health AI | Explainability, robustness, privacy-preserving/federated learning, regulatory readiness | Cross-cutting, open call for an area lead |
 
-## Current Research Projects
-
-**Volume electron microscopy workflow for large-scale 3D biological analysis** — Dr. Haythem El-Messiry, Associate Professor, in collaboration with Shandong University and MBZUAI.
-
-| Project | Role in the workflow |
-|---|---|
-| `microsam-llrd` | Fine-tuned segmentation for EM volumes |
-| `vEMINR` | Image restoration for volume EM data |
-| `vEMstitch` | Stitching serial-section EM tiles into volumes |
-| `FlowInpaint` | Optical-flow-guided inpainting for serial-sectioning images |
-
-Repositories will be linked here as they're transferred into this organisation.
-
-## Who we are
-
-- **Director:** Dr. Haythem El-Messiry, Associate Professor, Computer Science
-- Open to faculty from any CUD school; each hosted project keeps its own PI, budget, and partners
-- See [GOVERNANCE.md](https://github.com/cima-lab/.github/blob/main/GOVERNANCE.md) for how projects and faculty affiliate
-
 ## Standards every hosted repo follows
 
 - Permissive open-source license by default ([MIT](https://github.com/cima-lab/.github/blob/main/LICENSE) unless a project needs otherwise)
